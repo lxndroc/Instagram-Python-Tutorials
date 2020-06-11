@@ -5,7 +5,7 @@
 # Code: GitHub @lxndroc
 # https://github.com/lxndroc/Instagram-Python-Tutorials/blob/master/pd-shift.py
 # Video: YouTube Alexandros' Tuition
-# https://https://youtu.be/gYFse-eNPS8
+# https://youtu.be/gYFse-eNPS8
 
 # Slide 1 - Pandas shift() Function - What Can It Do?
 # Easily shift rows or columns of a DataFrame
